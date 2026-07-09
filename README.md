@@ -1,34 +1,62 @@
-<!-- ============================================= -->
-<!--  CABECERA (banner con degradado, sin emojis)  -->
-<!-- ============================================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sergio%20MGM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Madrid&descAlignY=62&descSize=16" />
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  Este es tu README de PERFIL.                                 ║
+  ║  Va en un repo público que se llame EXACTAMENTE como tu       ║
+  ║  usuario de GitHub (ej: github.com/sergiomgm/sergiomgm)     ║
+  ║  Reemplaza "sergiomgm" en todos los enlaces de más abajo.    ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
-## Sobre mí
+<h1 align="center">Hola, soy Sergio 👋</h1>
 
-Desarrollador full stack en Madrid. Construyo apps móviles con **Expo / React Native**
-y web + APIs con **Next.js**, todo sobre **TypeScript** y desplegado en **Vercel**.
+<p align="center">
+  <em>Developer · construyo cosas para la web y para móvil desde Madrid</em>
+</p>
 
-<a href="https://linkedin.com/in/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+---
 
-## Tecnologías
+### 🚀 Sobre mí
 
-<div align="center">
+- 🔭 Ahora mismo trabajo en **Tecnirep**, plataforma web y móvil de servicios técnicos.
+- 🛠️ Me muevo entre varios proyectos a la vez y despliego en **Vercel**.
+- 🌱 Aprendiendo y afinando mi flujo de trabajo con herramientas de IA y automatización.
+- 🎬 Fuera del código: colecciono **steelbooks**, ediciones especiales de cine y manga.
+- 💬 Pregúntame sobre desarrollo web, integraciones de APIs o arquitectura de despliegues.
 
-[![Tecnologías](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,vercel,git,github,notion&theme=dark)](https://skillicons.dev)
+---
 
-<!-- Expo y React Native no están en skillicons, van como badges -->
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🧰 Stack
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+</p>
 
-## Estadísticas
+<!-- Añade o quita badges según tu stack real. Busca más en https://simpleicons.org -->
 
-<div align="center">
+---
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sergiomgm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomgm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+### 📊 Mis estadísticas
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiomgm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomgm&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiomgm&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sergiomgm&style=flat-square&color=blue" alt="Visitas al perfil"/>
+</p>
 
